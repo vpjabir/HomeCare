@@ -1,2 +1,2 @@
-# HomeCare
+# HomeoCare
 Homeo Clinic
